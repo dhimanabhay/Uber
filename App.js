@@ -10,6 +10,7 @@ import "react-native-screens";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
+//2:43:43
 //Provider is something that will handle data
 export default function App() {
   const Stack = createNativeStackNavigator();
